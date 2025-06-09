@@ -1,4 +1,3 @@
-/mnt/c/gang/src/main/java/com/techcrafter/recipes/RecipeManager.java
 /mnt/c/gang/src/main/java/com/techcrafter/listeners/MenuListener.java
 /mnt/c/gang/src/main/java/com/techcrafter/commands/TechCrafterCommand.java
 /mnt/c/gang/src/main/java/com/techcrafter/menu/MenuManager.java
@@ -9,14 +8,12 @@
 /mnt/c/gang/src/main/java/com/techcrafter/addons/CoreTechAddon.java
 /mnt/c/gang/src/main/java/com/techcrafter/addons/UltraMatterAddon.java
 /mnt/c/gang/src/main/java/com/techcrafter/progression/UpgradeManager.java
-/mnt/c/gang/src/main/java/com/techcrafter/addons/PowerGearAddon.java
 /mnt/c/gang/src/main/java/com/techcrafter/gui/MachineGUI.java
 /mnt/c/gang/src/main/java/com/techcrafter/gui/TechTreeGUI.java
 /mnt/c/gang/src/main/java/com/techcrafter/progression/TechLevel.java
 /mnt/c/gang/src/main/java/com/techcrafter/commands/GuideCommand.java
 /mnt/c/gang/src/main/java/com/techcrafter/resources/Smelter.java
 /mnt/c/gang/src/main/java/com/techcrafter/gui/GuidePageThree.java
-/mnt/c/gang/src/main/java/com/techcrafter/items/ItemMenu.java
 /mnt/c/gang/src/main/java/com/techcrafter/machines/Grinder.java
 /mnt/c/gang/src/main/java/com/techcrafter/utils/ItemBuilder.java
 /mnt/c/gang/src/main/java/com/techcrafter/storage/ConfigFileHandler.java
@@ -33,5 +30,6 @@
 /mnt/c/gang/src/main/java/com/techcrafter/storage/DataManager.java
 /mnt/c/gang/src/main/java/com/techcrafter/TechCrafter.java
 /mnt/c/gang/src/main/java/com/techcrafter/gui/GuidePageFour.java
+/mnt/c/gang/src/main/java/com/techcrafter/items/CustomItem.java
 /mnt/c/gang/src/main/java/com/techcrafter/gui/ItemGUI.java
 /mnt/c/gang/src/main/java/com/techcrafter/commands/TechCommand.java

@@ -1,15 +1,12 @@
 name: TechCrafter
+version: 1.0-SNAPSHOT
 main: com.techcrafter.Main
-version: 1.0
-api-version: 1.20.1
-
+api-version: 1.20
 commands:
   tech:
-    description: دستورات اصلی TechCrafter
-    usage: /tech <subcommand>
-    permission: techcrafter.use
-
+    description: دستور اصلی پلاگین
+    usage: /<command>
 permissions:
   techcrafter.use:
-    description: اجازه استفاده از دستورات TechCrafter
+    description: اجازه استفاده از پلاگین
     default: true
