@@ -1,0 +1,10 @@
+settings:
+  showPrefix: true
+  prefix: "&6[TechCrafter] &f"
+messages:
+  no-permission: "&cشما اجازه‌ی اجرای این دستور را ندارید!"
+  only-player: "&cفقط بازیکنان می‌توانند این دستور را اجرا کنند."
+  guide-text: |
+    &eدستورالعمل استفاده:
+    &7- /guide : نمایش راهنما
+    &7- /tech [info/help] : اجرای دستورات تکنولوژی
