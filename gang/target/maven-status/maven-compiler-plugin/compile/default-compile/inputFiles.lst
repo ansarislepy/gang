@@ -1,6 +1,10 @@
+/mnt/c/gang/src/main/java/com/techcrafter/recipes/RecipeManager.java
+/mnt/c/gang/src/main/java/com/techcrafter/listeners/MenuListener.java
 /mnt/c/gang/src/main/java/com/techcrafter/commands/TechCrafterCommand.java
+/mnt/c/gang/src/main/java/com/techcrafter/menu/MenuManager.java
 /mnt/c/gang/src/main/java/com/techcrafter/automation/AutoFarm.java
 /mnt/c/gang/src/main/java/com/techcrafter/energy/BasicGenerator.java
+/mnt/c/gang/src/main/java/com/techcrafter/menu/ItemMenu.java
 /mnt/c/gang/src/main/java/com/techcrafter/energy/Generator.java
 /mnt/c/gang/src/main/java/com/techcrafter/addons/CoreTechAddon.java
 /mnt/c/gang/src/main/java/com/techcrafter/addons/UltraMatterAddon.java
@@ -12,12 +16,16 @@
 /mnt/c/gang/src/main/java/com/techcrafter/commands/GuideCommand.java
 /mnt/c/gang/src/main/java/com/techcrafter/resources/Smelter.java
 /mnt/c/gang/src/main/java/com/techcrafter/gui/GuidePageThree.java
+/mnt/c/gang/src/main/java/com/techcrafter/items/ItemMenu.java
 /mnt/c/gang/src/main/java/com/techcrafter/machines/Grinder.java
-/mnt/c/gang/src/main/java/com/techcrafter/items/QuantumArmor.java
+/mnt/c/gang/src/main/java/com/techcrafter/utils/ItemBuilder.java
 /mnt/c/gang/src/main/java/com/techcrafter/storage/ConfigFileHandler.java
+/mnt/c/gang/src/main/java/com/techcrafter/Recipe/RecipeManager.java
 /mnt/c/gang/src/main/java/com/techcrafter/addons/TechMagicAddon.java
 /mnt/c/gang/src/main/java/com/techcrafter/resources/ResourceStack.java
 /mnt/c/gang/src/main/java/com/techcrafter/gui/GuidePageTwo.java
+/mnt/c/gang/src/main/java/com/techcrafter/items/ItemManager.java
+/mnt/c/gang/src/main/java/com/techcrafter/Main.java
 /mnt/c/gang/src/main/java/com/techcrafter/energy/EnergyManager.java
 /mnt/c/gang/src/main/java/com/techcrafter/gui/GuidePageOne.java
 /mnt/c/gang/src/main/java/com/techcrafter/automation/Sorter.java
@@ -25,4 +33,5 @@
 /mnt/c/gang/src/main/java/com/techcrafter/storage/DataManager.java
 /mnt/c/gang/src/main/java/com/techcrafter/TechCrafter.java
 /mnt/c/gang/src/main/java/com/techcrafter/gui/GuidePageFour.java
+/mnt/c/gang/src/main/java/com/techcrafter/gui/ItemGUI.java
 /mnt/c/gang/src/main/java/com/techcrafter/commands/TechCommand.java
