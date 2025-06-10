@@ -1,22 +1,19 @@
 package com.techcrafter.items;
 
+import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
+import org.bukkit.inventory.meta.ItemMeta;
 
-public class CustomItem {
+public class CustomItem extends ItemStack {
 
-    private String name;
-    private ItemStack itemStack;
-
-    public CustomItem(String name, ItemStack itemStack) {
-        this.name = name;
-        this.itemStack = itemStack;
+    public CustomItem(Material material, String displayName) {
+        super(material);
+        ItemMeta meta = this.getItemMeta();
+        if (meta != null) {
+            meta.setDisplayName(displayName);
+            this.setItemMeta(meta);
+        }
     }
 
-    public String getName() {
-        return name;
-    }
-
-    public ItemStack getItemStack() {
-        return itemStack;
-    }
+    // اگر نیاز به متدهای بیشتری دارید، اینجا اضافه کنید
 }

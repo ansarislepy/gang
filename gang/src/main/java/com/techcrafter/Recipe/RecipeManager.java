@@ -1,4 +1,4 @@
-package com.techcrafter.recipes;
+package com.techcrafter.Recipe;
 
 import com.techcrafter.Main;
 import com.techcrafter.items.ItemManager;
